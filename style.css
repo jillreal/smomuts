@@ -1,0 +1,31 @@
+#container			{text-align:center;}
+.button				{text-align:center;
+					background-color:deepskyblue;}
+h1.green			{color:lawngreen;}
+a.splash_button		{color:deepskyblue;}
+a:link, a:visited	{text-decoration: none;}
+a:hover, a:active	{text-decoration: none;}
+a.aboutButton		{color:darkred;}
+a.registerButton	{color:darkgreen;}
+a.contactButton		{color:midnightblue;}
+a.searchButton		{color:dimgrey;}
+ul					{list-style-type:none;
+					margin:0;
+					padding:0;
+					overflow:hidden;
+					background-color:#F0F0F0;
+					position:fixed;
+					top:0;
+					width:100%;}
+li					{float:left;
+					border-right: 1px solid #bbb;}
+li a					{display:block;
+					text-align:center;
+					padding: 14px 16px;
+					text-decoration:none;}
+li.aboutButton		{background-color: tomato;}
+li.registerButton	{background-color: lightgreen;
+					color:green;}
+li.contactButton		{color:blue;
+					background-color: lightblue;}
+li.searchButton		{color:background-color: #B0B0B0;}
